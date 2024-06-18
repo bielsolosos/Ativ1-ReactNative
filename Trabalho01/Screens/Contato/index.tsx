@@ -134,13 +134,15 @@ const styles = StyleSheet.create({
     width: 20,
     height: 20,
     marginRight: 5,
+    backgroundColor: '#0f0f0f50',
+    padding: 13,
   },
   cardText: {
     color: '#ffffff',
     fontSize: 20,
     textAlign: 'center',
-    
-    
+    backgroundColor: '#0f0f0f70',
+    padding: 3,
   },
   button: {
     backgroundColor: 'rgba(0, 0, 0, 0.425)',
