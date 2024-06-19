@@ -38,8 +38,8 @@ const Home: React.FC = () => {
   },
 {
   id: 5,
-  image: require('../../assets/splash.png'),
-  text: 'GitHub - Nicolas',
+  image: require('../../assets/nicolas.png'),
+  text: 'Nicolas645',
   icon: require('../../assets/git.png'),
   
 },
